@@ -28,6 +28,46 @@
   color: #61dafb;
 }
 
+.target-sum{
+  margin-top: 20px;
+}
+
+.form-body{
+  padding: 20px;
+}
+
+.equations{
+  list-style: none;
+  border: 3px solid darkmagenta;
+  padding: 5px 10px 5px 10px;
+  color: chocolate;
+  margin-bottom: 10px;
+  font-weight: 900;
+  max-width: 90%;
+}
+
+
+.submit-button{
+  color: brown;
+  padding: 5px;
+  border: 1px solid honeydew;
+  height: 60px;
+  width: 170px;
+  margin-top: 20px;
+  font-weight: 800;
+}
+
+.summary-success{
+  padding: 2px 10px 2px 25px;
+  color: darkcyan;
+}
+
+
+.summary-fail{
+  padding: 2px 10px 2px 25px;
+  color: tomato;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
