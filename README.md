@@ -1,5 +1,6 @@
 # target-generator
 Target number generator app on react.
+Take pull from master branch.
 Run npm install and then npm start to run the app on localhost.
 ![Screenshot](https://github.com/abdulsamea/target-generator/blob/main/at-1.PNG)
 Image of UI for form upload of CSV and input accepting target number.
